@@ -1,0 +1,2 @@
+Este es mi trabajo. Trata del Everest, la montaña más alta del mundo. Incluye información de todo tipo desde una introducción en el header, hasta un apartado donde puedes escribir tu nombre y tu correo para contactarme contigo.
+Tambien incluye testimonios (algunos inventados) de aventureros que conquistaron la montaña, indluye un hobber y su logo es "EVERest" (un juego de palabras donde ever significa siempre en EVERest).
